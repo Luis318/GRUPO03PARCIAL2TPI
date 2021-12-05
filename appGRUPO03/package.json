@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "npx json-server --watch -p 3000 data.json "
+
+    },
+
+    "dependencies": {
+        "json-server": "^0.17.0"
+    }
+}
