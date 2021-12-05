@@ -1,0 +1,222 @@
+{
+    "bicicletas": [{
+            "id": 1,
+            "nombre": "Hiland Mountain Bike, Shimano 21 velocidades",
+            "descripcion": "Hiland Mountain Bike, Shimano 21 velocidades, marco de aluminio, ruedas de 26 pulgadas, con freno de disco de 3/6 radios para hombres, mujeres y hombres bicicleta MTB",
+            "precio": 309.99,
+            "cantidad": 10,
+            "imagen": "https://m.media-amazon.com/images/I/61b8nITuHeS._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/0dccc4cfe1e04fa8b06fe58e72b4140f?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de montaña"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Hiland",
+            "descripcion": "Bicicleta de montaña de aluminio, Shimano 24 velocidades, ruedas de 26 pulgadas, con freno de disco, 3 tamaños para hombres y bicicletas",
+            "precio": 349.99,
+            "cantidad": 20,
+            "imagen": "https://m.media-amazon.com/images/I/71knFK2FOxL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/7146d4be944649b6872134a30cef0fb5?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de montaña"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Eurobike Bicicleta de montaña G7 de 21 velocidades",
+            "descripcion": "21 velocidades, freno de disco doble, rueda de 27.5 pulgadas, bicicleta de suspensión dual",
+            "precio": 350.00,
+            "cantidad": 10,
+            "imagen": "https://www.amazon.com/-/es/Eurobike-Bicicleta-velocidad-suspensi%C3%B3n-bicicleta/dp/B07V8HW27L/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Mountain+bike&qid=1637793566&sr=8-3",
+            "video": "https://www.amazon.com/vdp/9e6645d407e94cd6acaa288edb04151a?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de montaña"
+        },
+
+        {
+            "id": 4,
+            "nombre": "Bicicleta de ruedas anchas para hombre.",
+            "descripcion": "21 velocidades, freno de disco doble, rueda de 27.5 pulgadas, bicicleta de suspensión dual",
+            "precio": 649.00,
+            "cantidad": 20,
+            "imagen": "https://m.media-amazon.com/images/I/91MqcxxSzFL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/f0cea0419705462394649c0bd48fb5c4?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de montaña"
+        },
+
+        {
+            "id": 5,
+            "nombre": "SIRDAR S-900 27",
+            "descripcion": "velocidad 27.5 pulgadas bicicleta de montaña aleación de aluminio y acero de alto carbono con 2 asiento reemplazable, suspensión completa freno de disco al aire libre Bicicletas para hombres mujeres",
+            "precio": 600.00,
+            "cantidad": 30,
+            "imagen": "https://m.media-amazon.com/images/I/717N1sFd2dS._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/959e057859bb49569dfbde4785bca808?ref=dp_vse_ibvc1",
+            "categoria": "Bicicleta de montaña"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Eurobike",
+            "descripcion": "Sistema de cambio de 21 velocidades, bicicleta de carretera de 49/54/22.0 in, marco de rueda 700C, bicicleta de carretera para adultos",
+            "precio": 319.00,
+            "cantidad": 20,
+            "imagen": "https://m.media-amazon.com/images/I/717dAfguqLL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/818ca67b83354f298ab78237f6236aeb?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de carreras"
+        },
+
+        {
+            "id": 7,
+            "nombre": "Hiland 700C",
+            "descripcion": "Bicicleta de carretera 700C con Shimano14 velocidades Shimano 3 colores",
+            "precio": 300.00,
+            "cantidad": 20,
+            "imagen": "https://m.media-amazon.com/images/I/717dAfguqLL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/d98a050d69e6487ca4a9d3303b27cf85?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de carreras"
+        },
+
+        {
+            "id": 8,
+            "nombre": "Hiland Road Bike 700c",
+            "descripcion": "Bicicleta de carreras de aluminio con 21 velocidades",
+            "precio": 319.00,
+            "cantidad": 5,
+            "imagen": "https://m.media-amazon.com/images/I/71IbCkYjG5S._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/081f7bad61c2442d970ba147d00a491d?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de carreras"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Mongoose Title Elite 24",
+            "descripcion": "Bicicleta de carreras BMX con ruedas de 24 pulgadas en color negro para pilotos avanzados y retornados, con marco de aluminio biaxial Tectonic T1 de grado profesional",
+            "precio": 246.00,
+            "cantidad": 5,
+            "imagen": "https://m.media-amazon.com/images/I/81HP-ApYQQL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/706791c5f5874b109a4061b812a6df17?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta de carreras"
+        },
+
+        {
+            "id": 10,
+            "nombre": "SAVA Phantom 3.0",
+            "descripcion": "Fibra de Carbono Shimano Ultegra 22 Velocidades Bicicleta de Carreras de Carretera",
+            "precio": 250.00,
+            "cantidad": 8,
+            "imagen": "https://m.media-amazon.com/images/I/51eDuU+3V8L._AC_UY218_.jpg",
+            "video": "https://www.youtube.com/watch?v=GLg6qUtLSF4",
+            "categoria": "Bicicleta de carreras"
+        },
+
+        {
+            "id": 11,
+            "nombre": "Bicicleta plegable para adultos Schwinn Loop",
+            "descripcion": "ruedas de 20 pulgadas, tren motriz de 7 velocidades, portaequipajes trasero, bolsa de transporte, varios colores",
+            "precio": 367.08,
+            "cantidad": 7,
+            "imagen": "https://m.media-amazon.com/images/I/81ICbTlMA5L._AC_UY218_.jpg",
+            "video": "https://m.media-amazon.com/images/I/81ICbTlMA5L._AC_UY218_.jpg",
+            "categoria": "Bicicleta Plegable"
+        },
+
+        {
+            "id": 12,
+            "nombre": "Bicicleta Schwinn Koen Boys",
+            "descripcion": "para niños pequeños y niños",
+            "precio": 158.56,
+            "cantidad": 10,
+            "imagen": "https://m.media-amazon.com/images/I/815Bc7vSr6L._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/054dc6c00063445aa2ed448845be768f?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta Plegable"
+        },
+
+        {
+            "id": 13,
+            "nombre": "hosote",
+            "descripcion": "Bicicleta de montaña plegable de 26 pulgadas, 21 velocidades, marco de acero al carbono MTB, bicicleta de freno de disco doble para hombres y mujeres",
+            "precio": 200.00,
+            "cantidad": 3,
+            "imagen": "https://m.media-amazon.com/images/I/71F-e3c1z5L._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/023d4d9b71474e829542152fbfdc3cfc?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta Plegable"
+        },
+
+        {
+            "id": 14,
+            "nombre": "ZiZZO Campo",
+            "descripcion": "Bicicleta plegable de 20 pulgadas con Shimano de 7 velocidades, tallo ajustable, marco de aluminio ligero",
+            "precio": 329.99,
+            "cantidad": 4,
+            "imagen": "https://m.media-amazon.com/images/I/71TKfe9JlkS._AC_UY218_.jpg",
+            "video": "https://www.youtube.com/watch?v=NFXgDkUIBpo",
+            "categoria": "Bicicleta Plegable"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Eurobike G4",
+            "descripcion": "21 velocidades, 26 pulgadas, doble suspensión plegable, freno de disco dual, bicicleta MTB",
+            "precio": 269.0,
+            "cantidad": 10,
+            "imagen": "https://m.media-amazon.com/images/I/61wubkZrizS._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/066a6abc4e084d0a89fd182322967518?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta Plegable"
+        },
+
+        {
+            "id": 16,
+            "nombre": "RoyalBaby",
+            "descripcion": "Bicicleta Stargirl para niñas de 3 a 9 años, 12, 14, 16 y 18 pulgadas, ruedas de entrenamiento de cesta para niños de 3 a 9 años, soporte para bicicleta de color rosa y azul",
+            "precio": 134.9,
+            "cantidad": 10,
+            "imagen": "https://m.media-amazon.com/images/I/61wubkZrizS._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/066a6abc4e084d0a89fd182322967518?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta BMX"
+        },
+
+        {
+            "id": 17,
+            "nombre": "Hiland",
+            "descripcion": "Bicicleta infantil de 20 pulgadas para niños BMX Freestyle en varios colores",
+            "precio": 150.0,
+            "cantidad": 2,
+            "imagen": "https://m.media-amazon.com/images/I/61DANxOeysL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/3fdbd4bf3e3e400985ef89eb337e8c61?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta BMX"
+        },
+
+        {
+            "id": 18,
+            "nombre": "Titan bicicleta BMX",
+            "descripcion": "diseño de flores, 16 pulgadas, rosado, para niñas",
+            "precio": 189.99,
+            "cantidad": 8,
+            "imagen": "https://m.media-amazon.com/images/I/61ihpP5S3YL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/09a298fbb2894f72a24f0667bf09a9ff?ref=dp_vse_ibvc1",
+            "categoria": "Bicicleta BMX"
+        },
+
+        {
+            "id": 19,
+            "nombre": "Nice C",
+            "descripcion": "icicleta BMX infantil con freno de disco doble para niños y niñas, ruedas de entrenamiento de 30 - 35 - 40 - 45 cm",
+            "precio": 180.0,
+            "cantidad": 10,
+            "imagen": "https://m.media-amazon.com/images/I/81nAzDBoLgL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/cbb04810a3554fcbb44438e3fa4f725b?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta BMX"
+        },
+
+        {
+            "id": 20,
+            "nombre": "RoyalBaby Boys Girls Kids Bike ",
+            "descripcion": "12 pulgadas BMX Freestyle 2 bicicletas con frenos de mano con ruedas de entrenamiento Bicicleta para niños",
+            "precio": 163.21,
+            "cantidad": 5,
+            "imagen": "https://m.media-amazon.com/images/I/71jQV9GrWWL._AC_UY218_.jpg",
+            "video": "https://www.amazon.com/vdp/06bf529b94de41caad3b4efbf78b20d1?ref=dp_vse_ibvc0",
+            "categoria": "Bicicleta BMX"
+        }
+    ]
+}
